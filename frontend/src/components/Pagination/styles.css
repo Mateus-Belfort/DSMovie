@@ -45,8 +45,8 @@
 
 .dsmovie-pagination-container p {
     margin: 0;
-    font-size: 12px;
-    color: var(--color-primary);
+    font-size: 14px;
+    color: #fff ;
 }
 
 .dsmovie-flip-horizontal {
